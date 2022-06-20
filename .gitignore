@@ -1,0 +1,5 @@
+my_rpg
+lib/libmy.a
+lib/my/libmy.a
+lib/my/*.o
+sources/*.o
